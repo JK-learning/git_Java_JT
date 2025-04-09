@@ -1,0 +1,3 @@
+JAVA_INICIO
+ln1
+ln2
